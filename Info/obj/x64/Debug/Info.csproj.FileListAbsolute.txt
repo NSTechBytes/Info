@@ -1,0 +1,6 @@
+C:\Users\Nasir Shahbaz\Desktop\Info\Info\x64\Debug\Info.dll
+C:\Users\Nasir Shahbaz\Desktop\Info\Info\x64\Debug\Info.pdb
+C:\Users\Nasir Shahbaz\Desktop\Info\Info\obj\x64\Debug\Info.csproj.AssemblyReference.cache
+C:\Users\Nasir Shahbaz\Desktop\Info\Info\obj\x64\Debug\Info.csproj.CoreCompileInputs.cache
+C:\Users\Nasir Shahbaz\Desktop\Info\Info\obj\x64\Debug\Info.dll
+C:\Users\Nasir Shahbaz\Desktop\Info\Info\obj\x64\Debug\Info.pdb
